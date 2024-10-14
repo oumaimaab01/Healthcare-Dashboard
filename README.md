@@ -8,6 +8,13 @@ Ce projet PowerBI a pour objectif d'analyser les performances des différents se
 - Identifier les domaines qui nécessitent des améliorations.
 - Analyser les performances des services en termes de qualité des soins et gestion des ressources humaines.
 - Réaliser des recommandations basées sur des KPIs définis pour améliorer l'efficacité globale.
+## Captures d'écran des Tableaux de Bord
+
+### Analyse des Patients
+![Analyse des Patients](./Dashboard_patients.png)
+
+### Analyse du Personnel
+![Analyse du Personnel](./Dashboard_employés.png)
 
 ## Fonctionnalités Principales
 - **KPIs définis** : Analyse de la durée moyenne de séjour, nombre de patients par jour, taux de mortalité, et autres.
